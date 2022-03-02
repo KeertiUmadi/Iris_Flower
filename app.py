@@ -17,3 +17,4 @@ op = model.predict([[sl,sw,pl,pw]])
 op = iris.target_names[op[0]]
 st.title(op)
     
+     
